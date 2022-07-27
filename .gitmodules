@@ -1,3 +1,6 @@
 [submodule "YOLO-series"]
 	path = YOLO-series
 	url = https://github.com/markjay4k/YOLO-series.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/pjreddie/darknet.git
