@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/garyq/Downloads/darknet-master/CMakeLists.txt
+  The vcpkg manifest was disabled, but we found a manifest file in C:\Users\garyq\Downloads\darknet-master\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+     Creating library C:/Users/garyq/Downloads/darknet-master/Release/darknet.lib and object C:/Users/garyq/Downloads/darknet-master/Release/darknet.exp
+  dark.vcxproj -> C:\Users\garyq\Downloads\darknet-master\Release\darknet.dll

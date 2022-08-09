@@ -1,0 +1,6 @@
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/dark.dir
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/uselib.dir
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/darknet.dir
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/INSTALL.dir
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/garyq/Downloads/darknet-master/CMakeFiles/ZERO_CHECK.dir
